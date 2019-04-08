@@ -14,4 +14,21 @@
     color: #ffffff !important;
     border-color:#fff7f7 !important;
   }
-  
+  .carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    margin-top: 5px;
+  }
+  h1 {
+    color: red;
+    margin-top: 10px;
+  }
+  hr{
+    width: 30%;
+    height: 02px;
+    background-color: red;
+    margin-left: 0;
+    margin-bottom: 10px;
+    border-top: 0px;
+  }
