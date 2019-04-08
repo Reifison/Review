@@ -39,15 +39,9 @@
     color: red;
     margin-top: 10px;
   }
-
-  .card {
-    position: relative;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    min-width: 0;
-    word-wrap: break-word;
-    background-color: #fff;
-   
+  .nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    margin-left: 100px;
   }
+  
