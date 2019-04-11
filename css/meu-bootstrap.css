@@ -32,16 +32,11 @@
     margin-bottom: 10px;
     border-top: 0px;
   }
-  .card, .flex-row, .flex-wrap{
-  justify-content: space-between
-  }
+  
   h2 {
     color: red;
     margin-top: 10px;
   }
-  .nav-link {
-    display: block;
-    padding: 0.5rem 1rem;
-    margin-left: 100px;
-  }
-  
+
+
+ 
