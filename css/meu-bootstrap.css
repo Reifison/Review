@@ -39,4 +39,21 @@
   }
 
 
+footer{
+  color: #fff;
+}
+footer a{
+  color: #fff;
+}
+footer h5{
+  font-size: 15px;
+}
+footer hr{
+  width: 30%;
+  height: 02px;
+  background-color: #ffffff;
+  margin-left: 0;
+  margin-bottom: 10px;
+  border-top: 0px;
+}
  
